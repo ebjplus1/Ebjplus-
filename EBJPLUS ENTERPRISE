@@ -1,4 +1,4 @@
-### **index.html**
+**index.html**
 
 ```html
 <!DOCTYPE html>
@@ -35,7 +35,7 @@
 ```
 
 
-### **styles.css**
+**styles.css**
 
 ```css
 body {
@@ -163,7 +163,7 @@ button {
 
 ---
 
-### **script.js**
+**script.js**
 
 ```javascript
 const products = [
